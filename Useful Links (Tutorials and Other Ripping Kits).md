@@ -23,6 +23,20 @@ https://drive.google.com/drive/u/0/folders/0BwFg9AqxnexzWmlKR1dWZVVGYzQ?resource
 **Tina's Ripping Kit or something idk**
 https://drive.google.com/drive/u/0/folders/1w3RltZuVCr9ziN-MVcM7Rs467aJ2VC0-
 
+<h1>Discord Servers</h1>
+
+**Ripping Resources**
+https://discord.gg/ETAaJQN
+
+**Official SiIvaGunner Fan Server**
+https://discord.gg/SNjCTB9
+
+**VGM & Other Instrument Sources**
+https://discord.gg/wCPHCxvpFS
+
+**Undertale OST Recreation Discord**
+https://discord.gg/QhW6ChC
+
 <h1>Miscellaneous Links</h1>
 
 **Zophar's Domain (a site which has a large archive of video game music in its original format**
