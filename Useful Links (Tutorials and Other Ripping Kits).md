@@ -1,4 +1,4 @@
-#Tutorials <h1>
+#<h1>Tutorials</h1>
 
 **SiIvaGunner Official Ripping Guide, by Wild Matsu**
 https://highquality.rip/ripguide/
