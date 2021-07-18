@@ -1,6 +1,6 @@
 # Pichus-Super-Epic-Ripping-Kit
 
-![Ripping Kit Logo](/Repo%20Resources/Logo.png)
+![TheBeastlyPichu's Ripping Kit Logo](/Repo%20Resources/Logo.png)
 
 
 Hi yes welcome to my ripping kit, this is where I put resources for making SiIvaGunner-style high quality video game rips.
