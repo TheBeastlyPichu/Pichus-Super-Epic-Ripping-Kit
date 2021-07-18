@@ -1,4 +1,8 @@
 # Pichus-Super-Epic-Ripping-Kit
+
+![Ripping Kit Logo](/Repo%20Resources/Logo.png)
+
+
 Hi yes welcome to my ripping kit, this is where I put resources for making SiIvaGunner-style high quality video game rips.
 All my FLPs require the latest version of FL Studio as of making them.
 I also have ripping software, edible game music, original music files, and stems in this ripping kit.
