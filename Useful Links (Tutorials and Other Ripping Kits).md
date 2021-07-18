@@ -1,4 +1,4 @@
-#Tutorials
+#Tutorials <h1>
 
 **SiIvaGunner Official Ripping Guide, by Wild Matsu**
 https://highquality.rip/ripguide/
@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1kULaSOZCm5dv3zNJ_Wabl2k7Yt5euB9qh1EPnOMYdRs/
 **Accurate SNES Ripping Guide, by pedipanol**
 https://pedipanol.tumblr.com/private/184655414767/tumblr_pr0btgT9Ii1vt3ppn
 
-#Ripping Kits
+#Ripping Kits <h1>
 
 **High Quality Ripping Starter Kit**
 https://drive.google.com/drive/u/0/folders/0B_3pLT_KI8V8MGl0TUYzdDU5Y1E?resourcekey=0-VEbw9b_4c3aH_mi_8IvxIA
@@ -23,7 +23,7 @@ https://drive.google.com/drive/u/0/folders/0BwFg9AqxnexzWmlKR1dWZVVGYzQ?resource
 **Tina's Ripping Kit or something idk**
 https://drive.google.com/drive/u/0/folders/1w3RltZuVCr9ziN-MVcM7Rs467aJ2VC0-
 
-#Miscellaneous Links
+#Miscellaneous Links <h1>
 
 **Zophar's Domain (a site which has a large archive of video game music in its original format**
 https://www.zophar.net/music
