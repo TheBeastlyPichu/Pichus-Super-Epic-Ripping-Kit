@@ -4,4 +4,4 @@ All my FLPs require the latest version of FL Studio as of making them.
 I also have ripping software, edible game music, original music files, and stems in this ripping kit.
 Enjoy!
 
-(Some files were to large to be uploaded to Github, so I included a Google Drive link to them.)
+(Some files were to large to be uploaded to Github, so I included a Google Drive link to them. If any of the links are down or you have another request for the ripping kit, DM me on Discord @TheBeastlyPichu#0512.)
