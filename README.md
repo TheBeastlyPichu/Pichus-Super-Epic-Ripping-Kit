@@ -3,7 +3,7 @@
 ![TheBeastlyPichu's Ripping Kit Logo](/Repo%20Resources/New%20Logo.png)
 
 Hi yes welcome to my ripping kit, this is where I put resources for making SiIvaGunner-style high quality video game rips.
-My Sunsetter FLP requires FL Studio 20.8.0, and my Character Select - Street Fighter II FLP requires FL Studio 20.8.3. All other FLPs that I make (signified with "TheBeastlyPichu" in parentheses) should hopefully require only FL Studio 20.1.2.
+My Character Select - Street Fighter II FLP requires FL Studio 20.8.3. All other FLPs that I make (signified with "TheBeastlyPichu" in parentheses) should hopefully require only FL Studio 20.1.2.
 I also have ripping software, edible game music, original music files, and stems in this ripping kit.
 Enjoy!
 
